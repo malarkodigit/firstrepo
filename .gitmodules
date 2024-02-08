@@ -1,0 +1,3 @@
+[submodule "secondrepo"]
+	path = secondrepo
+	url = https://github.com/malarkodigit/secondrepo.git
